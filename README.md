@@ -7,9 +7,6 @@ Este es un proyecto de frontend para una aplicación de gestión de cine constru
 - [Características](#características)
 - [Tecnologías usadas](#tecnologías-usadas)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Características
 
