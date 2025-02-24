@@ -1,4 +1,4 @@
-# Frontend - Cinema App
+# Frontend - Cinema
 
 Este es un proyecto de frontend para una aplicación de gestión de cine construida con React. Permite la visualización de películas, la reserva de asientos y la gestión de salas de cine. Se comunica con un backend para obtener y almacenar datos relacionados con las películas, las salas y las reservas.
 
