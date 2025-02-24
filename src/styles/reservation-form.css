@@ -1,0 +1,19 @@
+.screen {
+    text-align: center;
+    border: 1px solid #333333;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  .seat {
+    border:1px solid #333333;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    float: left;
+    margin: 5px;
+    border-radius: 10px 10px 0px 0px;
+    cursor: 'pointer',
+  }

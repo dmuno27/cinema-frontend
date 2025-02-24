@@ -1,0 +1,241 @@
+{
+    "id": 2,
+    "name": "SALA A",
+    "capacity": 50,
+    "created_at": "2025-02-23T21:08:29.000Z",
+    "updated_at": "2025-02-23T21:08:29.000Z",
+    "status": "ACTIVO",
+    "Seats": [
+        {
+            "id": 1,
+            "room_id": 2,
+            "row": "A",
+            "seat": 1,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 2,
+            "room_id": 2,
+            "row": "A",
+            "seat": 2,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 3,
+            "room_id": 2,
+            "row": "A",
+            "seat": 3,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 4,
+            "room_id": 2,
+            "row": "A",
+            "seat": 4,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 5,
+            "room_id": 2,
+            "row": "A",
+            "seat": 5,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 6,
+            "room_id": 2,
+            "row": "A",
+            "seat": 6,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 7,
+            "room_id": 2,
+            "row": "A",
+            "seat": 7,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 8,
+            "room_id": 2,
+            "row": "A",
+            "seat": 8,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 9,
+            "room_id": 2,
+            "row": "B",
+            "seat": 1,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 10,
+            "room_id": 2,
+            "row": "B",
+            "seat": 2,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 11,
+            "room_id": 2,
+            "row": "B",
+            "seat": 3,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 12,
+            "room_id": 2,
+            "row": "B",
+            "seat": 4,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 13,
+            "room_id": 2,
+            "row": "B",
+            "seat": 5,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 14,
+            "room_id": 2,
+            "row": "B",
+            "seat": 6,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 15,
+            "room_id": 2,
+            "row": "B",
+            "seat": 7,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 16,
+            "room_id": 2,
+            "row": "B",
+            "seat": 8,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 17,
+            "room_id": 2,
+            "row": "B",
+            "seat": 9,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 18,
+            "room_id": 2,
+            "row": "B",
+            "seat": 10,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 19,
+            "room_id": 2,
+            "row": "B",
+            "seat": 11,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 20,
+            "room_id": 2,
+            "row": "C",
+            "seat": 1,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 21,
+            "room_id": 2,
+            "row": "C",
+            "seat": 2,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 22,
+            "room_id": 2,
+            "row": "C",
+            "seat": 3,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 23,
+            "room_id": 2,
+            "row": "C",
+            "seat": 4,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 24,
+            "room_id": 2,
+            "row": "C",
+            "seat": 5,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 25,
+            "room_id": 2,
+            "row": "C",
+            "seat": 6,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 26,
+            "room_id": 2,
+            "row": "C",
+            "seat": 7,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 27,
+            "room_id": 2,
+            "row": "C",
+            "seat": 8,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 28,
+            "room_id": 2,
+            "row": "C",
+            "seat": 9,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 29,
+            "room_id": 2,
+            "row": "C",
+            "seat": 10,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 30,
+            "room_id": 2,
+            "row": "C",
+            "seat": 11,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 31,
+            "room_id": 2,
+            "row": "C",
+            "seat": 12,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 32,
+            "room_id": 2,
+            "row": "C",
+            "seat": 13,
+            "status": "ACTIVO"
+        },
+        {
+            "id": 33,
+            "room_id": 2,
+            "row": "C",
+            "seat": 14,
+            "status": "ACTIVO"
+        }
+    ]
+}
